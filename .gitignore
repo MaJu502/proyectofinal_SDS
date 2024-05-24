@@ -5,3 +5,5 @@ analisis_mensual
 LGBM_incremental_performance
 LGBM_combined_performance
 final_datasets
+ANN_incremental_performance
+ANN_combined_performance
