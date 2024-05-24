@@ -3,5 +3,5 @@ feature_engineering.html
 final_dataset.csv
 analisis_mensual
 LGBM_incremental_performance
-LGBM_noIncrements_performance
+LGBM_combined_performance
 final_datasets
